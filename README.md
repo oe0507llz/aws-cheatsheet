@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=zkNdHv1iMgY
 #### GitHub Actions - CI CD Pipeline Flask App to AWS ElasticBeanstalk
 https://www.youtube.com/watch?v=Z6f0CHR_pPw
 
+#### HTTPS for an AWS S3 Static Website using Cloudfront
+https://www.youtube.com/watch?v=_Jw6tHUp6js
+
