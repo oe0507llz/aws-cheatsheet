@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=Z6f0CHR_pPw
 #### HTTPS for an AWS S3 Static Website using Cloudfront
 https://www.youtube.com/watch?v=_Jw6tHUp6js
 
+#### Routing traffic to an Amazon CloudFront web distribution by using your domain name
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-cloudfront-distribution.html
+
