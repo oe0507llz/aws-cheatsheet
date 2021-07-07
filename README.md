@@ -1,5 +1,8 @@
 # aws-cheatsheet
 
+#### AWS API Gateway Tutorial | How to Create REST API With API Gateway | AWS Training | Edureka
+https://www.youtube.com/watch?v=qnVfWG8N7Fw
+
 #### Launch and configure a WordPress instance with Amazon Lightsail
 https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/
 
