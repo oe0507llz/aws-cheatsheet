@@ -2,7 +2,7 @@
 
 #### How to Host a Website on Amazon Web Services (AWS) - S3, Route 53, CloudFront, & Certificate Manager
 https://www.youtube.com/watch?v=lCnymxddies
-<br>`This is the correct way to set up both wwww and without www.`
+<br>`This is the correct way to set up both wwww and without www. However, for some reason, I will have to busysquirrels.com certificate instead of *.busysquirrels.com certificate`
 
 #### AWS API Gateway Tutorial | How to Create REST API With API Gateway | AWS Training | Edureka
 https://www.youtube.com/watch?v=qnVfWG8N7Fw
