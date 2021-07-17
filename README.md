@@ -1,5 +1,8 @@
 # aws-cheatsheet
 
+#### Testing and Deployment Best Practices for AWS Lambda-Based Applications - AWS Online Tech Talks
+https://www.youtube.com/watch?v=zJQDAsWm-5k
+
 #### How to Host a Website on Amazon Web Services (AWS) - S3, Route 53, CloudFront, & Certificate Manager
 https://www.youtube.com/watch?v=lCnymxddies
 <br>`This is the correct way to set up both wwww and without www. However, for some reason, I will have to busysquirrels.com certificate instead of *.busysquirrels.com certificate`
