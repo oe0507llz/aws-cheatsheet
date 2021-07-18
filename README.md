@@ -1,5 +1,8 @@
 # aws-cheatsheet
 
+#### Mastering the AWS Serverless Application Model (AWS SAM) - AWS Online Tech Talks
+https://www.youtube.com/watch?v=QBBewrKR1qg
+
 #### AWS re:Invent 2019: [REPEAT 1] Asynchronous-processing best practices with AWS Lambda (SVS406-R1)
 https://www.youtube.com/watch?v=QNnMpoD4RHM
 
