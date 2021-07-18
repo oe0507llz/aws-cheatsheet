@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=QNnMpoD4RHM
 
 #### AWS re:Invent 2019: [REPEAT 1] Serverless at scale: Design patterns and optimizations (SVS335-R1)
 https://www.youtube.com/watch?v=dzU_WjobaRA
-<b>`Awesome video to watch when we get into scale`
+<br>`Awesome video to watch when we get into scale`
 
 #### AWS re:Invent 2019: [REPEAT 1] CI/CD for serverless applications (SVS336-R1)
 https://www.youtube.com/watch?v=jUXiOPTX9S4
