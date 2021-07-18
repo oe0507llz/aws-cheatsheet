@@ -1,5 +1,9 @@
 # aws-cheatsheet
 
+#### AWS re:Invent 2019: [REPEAT 1] CI/CD for serverless applications (SVS336-R1)
+https://www.youtube.com/watch?v=jUXiOPTX9S4
+<br> Use of CodePipeline and SAM for lambda deployment with staging and production environments with canary or linear fashion
+
 #### Testing and Deployment Best Practices for AWS Lambda-Based Applications - AWS Online Tech Talks
 https://www.youtube.com/watch?v=zJQDAsWm-5k
 
