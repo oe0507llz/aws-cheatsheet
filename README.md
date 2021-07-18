@@ -1,5 +1,8 @@
 # aws-cheatsheet
 
+#### Deploying AWS SAM with Github Actions - The Cloud Resume Challenge Series (Part 17)
+https://www.youtube.com/watch?v=gEsZyIhglpI
+
 #### Mastering the AWS Serverless Application Model (AWS SAM) - AWS Online Tech Talks
 https://www.youtube.com/watch?v=QBBewrKR1qg
 
