@@ -1,5 +1,8 @@
 # aws-cheatsheet
 
+#### AWS re:Invent 2019: [REPEAT 1] Serverless at scale: Design patterns and optimizations (SVS335-R1)
+https://www.youtube.com/watch?v=dzU_WjobaRA
+
 #### AWS re:Invent 2019: [REPEAT 1] CI/CD for serverless applications (SVS336-R1)
 https://www.youtube.com/watch?v=jUXiOPTX9S4
 <br> Use of CodePipeline and SAM for lambda deployment with staging and production environments with canary or linear fashion
