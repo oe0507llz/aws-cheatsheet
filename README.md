@@ -1,5 +1,8 @@
 # aws-cheatsheet
 
+#### Tutorial: Create a pipeline that publishes your serverless application to the AWS Serverless Application Repository
+https://docs.aws.amazon.com/codepipeline/latest/userguide/tutorials-serverlessrepo-auto-publish.html
+
 #### Deploying AWS SAM with Github Actions - The Cloud Resume Challenge Series (Part 17)
 https://www.youtube.com/watch?v=gEsZyIhglpI
 
