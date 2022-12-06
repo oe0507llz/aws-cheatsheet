@@ -47,3 +47,7 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-cloudfront-
 
 #### How to check whether my user data passing to EC2 instance working or not?
 https://stackoverflow.com/questions/15904095/how-to-check-whether-my-user-data-passing-to-ec2-instance-working-or-not
+
+#### How Can I Download a File from EC2
+https://stackoverflow.com/questions/9441008/how-can-i-download-a-file-from-ec2
+<br>`scp -i ec2key.pem username@ec2ip:/remote/path/to/file /local/path/to/file`
